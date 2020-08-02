@@ -11,4 +11,6 @@ I am succesfull, of course).
 
 So that's it, there are no rules as of how you can contruibute. Just make a pull request or contact me if you think you have something!
 
+PS: I use colab.research.google.com and cloud.google.com to run my tests, so if there are any incompatibilites on PCs let me know I would like to fix them as well!
+
 Let's do it
