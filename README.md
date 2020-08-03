@@ -7,6 +7,6 @@ work the way I thought it would. So the videos taken are through dash-board cams
 
 So that's it, there are no rules as of how you can contruibute. Just make a pull request or contact me if you think you have something!
 
-PS: I use colab.research.google.com and cloud.google.com to run my tests, so if there are any incompatibilites on PCs let me know I would like to fix them as well!
+PS: I use https://colab.research.google.com and https://cloud.google.com to run my tests, so if there are any incompatibilites on PCs let me know I would like to fix them as well!
 
 Let's do it
